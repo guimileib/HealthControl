@@ -1,1 +1,72 @@
-venv
+# Health Control - Arquivos a serem ignorados pelo Git
+
+# === AMBIENTES VIRTUAIS ===
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# === DADOS PESSOAIS/SENSÍVEIS ===
+# NUNCA COMMIT DADOS REAIS DE SAÚDE!
+exportar.xml                # Dados reais do Apple Health
+export_cda.xml             # Dados médicos reais
+
+
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# === JUPYTER NOTEBOOKS ===
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# === IDE/EDITOR ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === SISTEMA OPERACIONAL ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# === LOGS ===
+*.log
+logs/
+
+# === DADOS TEMPORÁRIOS ===
+temp/
+tmp/
+*.tmp
+
+# === CREDENCIAIS ===
+.env
+secrets.yaml
+config.json
+
