@@ -9,8 +9,8 @@ ENV/
 
 # === DADOS PESSOAIS/SENSÍVEIS ===
 # NUNCA COMMIT DADOS REAIS DE SAÚDE!
-exportar.xml                # Dados reais do Apple Health
-export_cda.xml             # Dados médicos reais
+exportar.xml                
+export_cda.xml             
 
 
 # === PYTHON ===
