@@ -38,21 +38,6 @@ O projeto segue rigorosamente as 5 fases da metodologia KDD:
 - **Feature mais importante**: Horário de dormir (0.386)
 - **Insight**: Regularidade > Duração total do sono
 
-## 🗂️ Estrutura do Projeto
-
-```
-health_control/
-├── 📁 data/                          # Dados sintéticos
-│   ├── synthetic_health_export.xml   # Dados em formato Apple Health
-│   └── synthetic_health_summary.csv  # Resumo em CSV
-├── 📓 health_control_github.ipynb    # Notebook principal (versão GitHub)
-├── 🐍 generate_synthetic_data.py     # Script gerador de dados sintéticos
-├── 📄 health_control_ieee_paper.tex  # Relatório IEEE em LaTeX
-├── 📋 requirements.txt               # Dependências do projeto
-├── 🎯 .gitignore                     # Arquivos ignorados pelo Git
-└── 📖 README.md                      # Este arquivo
-```
-
 ## 🚀 Como Usar
 
 ### 1. Clone o Repositório
