@@ -119,7 +119,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **Guilherme Lima**
 - GitHub: [@guimileib](https://github.com/guimileib)
-- LinkedIn: [Guilherme Lima](https://www.linkedin.com/in/guimileib/)
+- LinkedIn: [Guilherme Mileib](https://www.linkedin.com/in/guimileib/)
 - Email: guilhermemileib@gmail.com
 
 ## 🙏 Agradecimentos
